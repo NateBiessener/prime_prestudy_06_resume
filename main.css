@@ -1,38 +1,38 @@
 
 html {
-	background-color: #ccc;
+  background-color: #ccc;
 }
 
 #resume, #contact, #portfolio {
-	display: none;
+  display: none;
 }
 
 #entryButton {
-	border-radius: 10px;
-	background-color: azure;
+  border-radius: 10px;
+  background-color: azure;
 }
 
 header {
-	background-color: azure;
-	padding: 1.7vw 4vw 1.7vw 4vw;
+  background-color: azure;
+  padding: 1.7vw 4vw 1.7vw 4vw;
 }
 
 #photo {
-	float: right;
-	height: 150px;
-	width: 150px;
-	border: 2px groove darkslategrey;
+  float: right;
+  height: 150px;
+  width: 150px;
+  border: 2px groove darkslategrey;
   border-radius: 10px;
 }
 
 h1 {
-	font-size: 40px;
+  font-size: 40px;
 }
 
 .intro {
-	font-family: 'Trebuchet MS', Arial, sans-serif;
-	font-size: 16px;
-	padding: 1.7vw 0 1.7vw 4vw;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  font-size: 16px;
+  padding: 1.7vw 0 1.7vw 4vw;
 }
 
 header nav {
@@ -42,14 +42,14 @@ header nav {
 .navButton {
   display: inline;
   margin-right: 1.7vw;
-	font-size: 22px;
+  font-size: 22px;
   color: darkred;
 }
 
 main {
-	background-color: #eee;
+  background-color: #eee;
   padding-bottom: 15px;
-	margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 main section {
@@ -58,17 +58,17 @@ main section {
 }
 
 main section:first-child {
-	margin-left: 2vw;
+  margin-left: 2vw;
 }
 
 .title {
-	margin: 10px 0px 10px 3vw;
+  margin: 10px 0px 10px 3vw;
 }
 
 .topic {
-	border: 3px groove darkslategrey;
+  border: 3px groove darkslategrey;
   border-radius: 10px;
-	padding-right: 1vw;
+  padding-right: 1vw;
   margin-right: 2vw;
 }
 
@@ -81,12 +81,12 @@ main section:first-child {
 }
 
 .contentItem li{
-	margin-top: 8px;
-	line-height: 1.2em;
+  margin-top: 8px;
+  line-height: 1.2em;
 }
 
 .listTitle {
-	font-weight: bold;
-	margin-top: 14px;
-	margin-bottom: 0px;
+  font-weight: bold;
+  margin-top: 14px;
+  margin-bottom: 0px;
 }
